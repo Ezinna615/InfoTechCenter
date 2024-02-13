@@ -10,4 +10,4 @@ def gasLevelGauge():
     return currentGasLevel
 
 
-print(gasLevelGauge)
+print(gasLevelGauge())
